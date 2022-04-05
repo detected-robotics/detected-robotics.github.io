@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-page-slug-js",
+    "path": "/contact/",
+    "result": {"data":{"page":{"id":"a1bae9da-3c58-5f8b-8b78-bf9336111ead","title":"Contact Sales","slug":"contact","description":null,"image":null,"html":"<p>Thank you for your interest in contacting us. Please send <a href=\"mailto:email@example.com\">an email</a> to our sales team to get in touch.</p><p></p>"}},"pageContext":{"id":"a1bae9da-3c58-5f8b-8b78-bf9336111ead","slug":"contact","__params":{"slug":"contact"}}},
+    "staticQueryHashes": ["3235098977","860043902"]}
